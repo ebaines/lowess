@@ -1,4 +1,4 @@
-module git.ebain.es/loess
+module github.com/ebaines/lowess
 
 go 1.16
 
